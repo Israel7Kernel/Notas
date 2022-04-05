@@ -1,0 +1,2 @@
+# Notas
+Notas generales, configuraciones, 
