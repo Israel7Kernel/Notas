@@ -1,0 +1,21 @@
+
+
+// SINTAXIS INSTALACIÓN ANGULAR NODEJS NPM 
+	npm install @angular/cli
+	npm install --save @angular-devkit/build-angular
+	npm install @angular-devkit/schematics
+	npm install @angular-devkit/build-angular --dev
+
+	npm install @angular-devkit/build-angular
+
+//FORZAR ACTUALIZACIÓN DE ARCHIVO
+	ng update @angular/cli @angular/core --allow-dirty
+
+//COMANDOS PARA CARGAR Y GENERAR LINK ANGULAR
+	CMD -- ir a directorio de arhivos de html de angular
+	EJECUTAR -- npm install
+	EJECUTAR -- npm start
+	EJECUTAR (EN CASO DE EJECUTARSE AUTOMATIC) -- npm serve
+
+
+// SOLUCIONAR FIRMA DIGITAL PARA ARCHOVS ng.ps1 DE ANGULAR

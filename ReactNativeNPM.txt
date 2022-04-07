@@ -1,0 +1,56 @@
+
+
+//INSTALACIÓN DE REACT NATIVE DESDE NPM MANERA GLOBAL
+	npm install -g expo-cli
+	npm install expo-cli --global
+	npm install -g react-native-cli
+
+
+//EJEMPLO DE INSTALACÓN DE VERSIÓN ESPECIFICA
+	npm install --save core-js@^3
+	npm install babel-loader@8.1.0
+
+
+//INSTALACIÓN DE MATERIAL KIT EN REACT NPM
+	npm install material-kit-react
+	npm install @material-ui/lab
+
+
+//CREACIÓN DE APLICACIÓN NORMAL REACT
+(INGRESAR AL DIRECTORIO DONDE SE ALOJARA LA APLICACIÓN)
+	create-react-app my-app
+	cd my-app
+	npm start
+
+
+//CREACIÓN DE APLICACIÓN CON REACT NATIVE
+	react-native init Kernel
+	cd Kernel
+	react-native run-android
+
+
+//INTENTO CORRECIÓN UNO SUCCESSUFUll
+//CREACIÓN DE WEB CON REACT EMPLEANFO NPM
+
+	create-react-app nameproject
+	//INGRESAR A A LA SUBCARPETA DE CREACIÓN nameproject
+	npm start
+
+
+//CREACIÓN DE APLICACIÓN REACT EMPLEANDO EXPO 
+	//COMANDO INICIAL
+		expo init expoexample1
+	//ENTRAR A DIRECTORIO DE PROYECTO
+		cd expoexample1
+	//INICIALIZAR APP REAL
+		expo start
+	//DESCARGAR APP EXPO DESDE TIENDA Y ESCANEAR QR O INGRESAR URL
+
+//INSTALACIÓN DE LIBRERIAS ESCENCIALES BOOTSTRAP
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+
+*Apartado identificación usuario*
+ [user]
+ email = "Tu_email de Github"
+ name = "Tu_usuario de Github"
+
+*Apartado del enlace del repositorio*
+ [remote "origin"]
+ url = "Dirección_web_repositorio de Github"
+
+*Apartado de la rama del repositorio*
+ [branch "master"]
+  remote = origin
+  merge = refs/heads/master
+
+
+
+https://github.com/login/oauth/authorize?response_type=code&client_id=c8fa41b9821cfbe1248f&redirect_uri=https%3A%2F%2Fgithub.atom.io%2Fauth%2Fgithub_package%2Fcallback&state=1753116c9cf224a469cab9fa22d4c5195d0b2a3e81951088&scope=read%3Aorg%2Crepo%2Cuser%3Aemail
+
